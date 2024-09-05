@@ -1,0 +1,33 @@
+body {
+    background-color: #eaeaea;
+}
+
+.table th:last-of-type {
+    min-width: 100px;
+}
+
+.sortable {
+    cursor: pointer;
+    min-width: 100px;
+}
+
+.img-small {
+    width: auto;
+    height: 50px;
+}
+
+#product-create {
+    width: auto;
+    height: 130px;
+}
+
+#product-list{
+    width: 70px;
+}
+
+.ql-editor{
+    height: 200px !important;
+    overflow-y: scroll !important;
+}
+
+
